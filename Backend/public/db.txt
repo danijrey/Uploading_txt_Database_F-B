@@ -1,0 +1,5 @@
+teléfono nombre Dirección Apellido Producto
+telefono1,nombre1,direccion1,apellido,nombre1
+telefono1,nombre2,direccion1,apellido,nombre1
+telefono1,nombre3,descripcion1,
+telefono1,nombre4,nombre1,apellido,direccion1
